@@ -5,3 +5,4 @@ opencv-python
 Pillow>=9.5,<10.0
 numpy
 matplotlib
+pandas
