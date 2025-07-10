@@ -1,0 +1,8 @@
+streamlit==1.40.2
+torch==2.5.1
+tensorflow==2.13.0
+opencv-python
+Pillow>=9.5,<10.0
+numpy
+matplotlib
+pandas
