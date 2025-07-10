@@ -1,5 +1,6 @@
 streamlit==1.40.2
 torch==2.5.1
+torchvision
 opencv-python
 Pillow<10.0,>=9.5
 numpy
